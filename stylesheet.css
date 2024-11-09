@@ -1,0 +1,118 @@
+#title {
+	font-family: sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color:#15dffd;
+	border-style: solid;
+	border-color: blue;
+	background-color: blue;
+	
+}
+
+.contents {
+	font-size: 20px;
+	color: #ff00ff;
+	text-align: center;
+	background-image: url("Tour Eiffel.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100px 160px;
+	background-position: 70% 60%;
+	background-attachment: scroll;
+	
+	
+}
+.introduction {
+	font-size: 20px;
+	color: #ff00ff;
+	text-align: center;
+}
+
+
+#section1Title {
+	font-family: sans-serif;
+	font-size: 20px;
+	color: blue;
+	text-align: center;
+	background-color: turquoise;
+}
+
+#section2Title {
+	font-family: sans-serif;
+	font-size: 20px;
+	color: blue;
+	text-align: center;
+	background-color: turquoise;
+}
+
+
+#section3Title {
+	font-family: sans-serif;
+	font-size: 20px;
+	color: blue;
+	text-align: center;
+	background-color: turquoise;
+}
+
+#section4Title {
+	font-family: sans-serif;
+	font-size: 20px;
+	color: blue;
+	text-align: center;
+	background-color: turquoise;
+}
+.section1Text {
+	font-size: 20px;
+	color: #ff00ff;
+	text-align: center;
+	background-image: url("Unknown.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 200px 200px;
+	background-position: 90% 60%;
+	background-attachment: scroll;
+}	
+
+
+.section2Text {
+	font-size: 20px;
+	color: #ff00ff;
+	text-align: center;
+	background-image: url("Statue1.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 300px 320px;
+	background-position: center left;
+	background-attachment: scroll;
+	
+}
+
+
+.section3Text {
+	font-size: 20px;
+	color: #ff00ff;
+	text-align: center;
+	background-image: url("computer.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 150px 200px;
+	background-position: center left;
+	background-attachment: scroll;
+}
+
+.section4Text {
+	font-size: 20px;
+	color: #ff00ff;
+	text-align: center;
+	background-image: url("IMG_8718.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 150px 150px;
+	background-position: 25% 60%;
+	background-attachment: scroll;
+}
+
+#footer {
+ 	text-align: center;
+ 	padding: 3px;
+}
